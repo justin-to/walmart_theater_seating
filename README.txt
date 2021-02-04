@@ -32,7 +32,6 @@ Allow for splitting up of groups
 |sbbbbbbbbs|
 |sbbbggbbbs|
 |sbbbggbbbs|
-two rows can be "stacked"
 Buffer is smaller diagonally
  __________
 |ssbbbbbsss|
